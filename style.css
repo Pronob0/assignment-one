@@ -47,3 +47,49 @@ p {
 .year{
     color: #f07f23;
 }
+.my-mission{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 2%;
+    margin-bottom: 50px;
+}
+.card-section{
+display: flex;
+margin: 0 8%;
+
+}
+.one-third{
+width: 30%;
+margin: 0 2%;
+padding: 35px;
+border-radius: 10%;
+}
+.one-third p{
+line-height: 20px;
+color: #000;
+}
+.img{
+width: 35%;
+}
+.first{
+background-color: rgb(217, 245, 246);
+}
+.second{
+background-color: #f1c394;
+}
+.third{
+background-color: #f1f8bb;
+}
+.coding-section{
+width: 45%;
+margin-top: 10%;
+}
+.code-heading{
+padding-right: 5%;
+font-size: 20px;
+font-weight: 900;
+}
+.coding-section img{
+width:60%;
+padding-left: 30%;
+}
