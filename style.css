@@ -1,8 +1,10 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
 }
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Play', sans-serif;
     font-size: 15px;
     line-height: 26px;
     color: grey;
@@ -92,4 +94,49 @@ font-weight: 900;
 .coding-section img{
 width:60%;
 padding-left: 30%;
+}
+.global-section{
+    width: 45%;
+    margin: 0 auto;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.global-section img{
+width:70%;
+}
+.global-heading{
+    font-size: 20px;
+    font-weight: 900;
+}
+.second-button{
+    text-decoration: none;
+    background: rgb(248, 46, 5);
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 5px;
+   }
+   .img2{
+    width: 100%;
+    }
+    .border{
+        box-shadow: 2px 5px 40px grey;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 10%;
+    }
+footer{
+    background: #000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer h3{
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+.footer{
+    color: rgb(245, 75, 75);
+}
+footer p{
+    font-size: 12px;
 }
