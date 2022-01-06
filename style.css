@@ -1,0 +1,49 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    color: grey;
+    word-spacing: 3px;
+}
+
+.mission-section{
+    display: flex;
+}
+.first-section{
+    width: 40%;
+    margin-left: 10%;
+}
+.first-section img{
+    width:60%; 
+}
+.margin{
+    margin-top: 5%;
+}
+.margin h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.heading {
+    line-height: 35px;
+    border-left: 5px solid rgba(245, 108, 67, 0.938);
+    padding-left: 10px;
+}
+.colour-head{
+    color: #f07f23;
+}
+.first-button{
+ text-decoration: none;
+ background: rgb(247, 113, 60);
+ color: #fff;
+ padding: 10px 40px;
+ border-radius: 5px;
+}
+.mission-paragraph{
+    margin-bottom: 30px;
+}
+.year{
+    color: #f07f23;
+}
